@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aryan-Ghosh
-- 👀 I’m interested in ...coding and am profficient with languages such as C, C+, JAVA and PYTHON 
+- 👀 I’m interested in ...coding and am profficient with languages such as C, C++, JAVA and PYTHON 
 - 🌱 I’m currently learning ...JS, HTML and CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...ghosharyan05@gmail.com
