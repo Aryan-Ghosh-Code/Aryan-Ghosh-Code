@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3500&pause=1000&color=0077FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Aryan+Ghosh;Full-Stack+Developer;Tech+Enthusiast+%7C+ML+Explorer;Hardware-Software+Innovator;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=40&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Aryan+Ghosh;Full-Stack+Developer;Tech+Enthusiast+%7C+ML+Explorer;Hardware-Software+Innovator;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
 
 <h3 align="center">Pursuing B.Tech in Computer Science and Engineering at Heritage Institute of Technology, Kolkata. A passionate Full-Stack Developer exploring the dynamic intersection of Machine Learning, Software Systems, and Hardware Innovation.</h3>
