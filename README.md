@@ -36,9 +36,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Aryan-Ghosh-Code&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /></p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Ghosh-Code&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" /></p>
+
+<br>
 <p><img align="center" src="https://nirzak-streak-stats.vercel.app/api?user=Aryan-Ghosh-Code&theme=dark&hide_border=false" alt="GitHub Streak" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Ghosh-Code&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" /></p>
 
 ## 📈 Contribution Activity
 <img allign="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan-Ghosh-Code&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
