@@ -19,14 +19,23 @@
 - 📫 How to reach me **ghosharyan05@gmail.com**
 
 - ⚡ Fun fact **Debugging at 3 AM feels great, but not as great as watching a last-over finish or even a perfect counterattack!**
-<!-- Check out all my work at: **[https://aryan-ghosh-portfolio.vercel.app/](https://aryan-ghosh-portfolio.vercel.app/)** - where ideas meet implementation -->
+
+<p align="center">
+  <a href="https://aryan-ghosh-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_EXPLORE_MY_PORTFOLIO-0A0A0A?style=for-the-badge&logo=vercel&logoColor=00FFFF&labelColor=000000&color=00FFFF" />
+  </a>
+</p>
+
+<p align="center">
+  <em>Where ideas meet real-world implementation</em>
+</p>
 
 ## 🌐 Connect With Me:
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/aryan-ghosh-83a26631b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/aryan-ghosh-83a26631b" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/aryanghosh_4960/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/aryanghosh_4960/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/aryan_ghosh_ten1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/aryan_ghosh_ten1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/aryan_ghosh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/aryan_ghosh/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aryan-ghosh-83a26631b"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/aryanghosh_4960/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/></a>&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/profile/aryan_ghosh_ten1"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40"/></a>&nbsp;&nbsp;
+<a href="https://leetcode.com/u/aryan_ghosh/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/></a>
 </p>
 
 ## 💻 Languages and Tools: 
